@@ -1,0 +1,13 @@
+{
+  "name": "snapper",
+  "version": "0.0.0",
+  "private": true,
+  "author": "Mark Roberts <Snapper67@gmail.com>",
+  "description": "A simple helpful robot for your Company",
+  "dependencies": {
+    "hubot-slack": "^2.2.0"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
