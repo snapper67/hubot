@@ -1,1 +1,1 @@
-web: bin/hubot -a campfire -n snapper
+web: bin/hubot --adapter slack
